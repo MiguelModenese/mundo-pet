@@ -1,4 +1,4 @@
- Mundo Pet
+## Mundo Pet
 
 Este é um projeto de site fictício para um pet shop, feito com HTML e CSS,
 desenvolvido pelo SENAI PLAY e adaptado para ser responsivo
@@ -22,7 +22,7 @@ desenvolvido pelo SENAI PLAY e adaptado para ser responsivo
 
 ---
 
-## ��️ Prints do site (inserir abaixo):
+## Prints do site (inserir abaixo):
 ![Print da página inicial](img/print-home.png)
 ![Print da loja](img/print-sobre.png)
 ![Print da loja](img/print-loja.png)
